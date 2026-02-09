@@ -11,7 +11,7 @@ I tried to keep it focused on the stuff that actually matters (and avoid trivia 
 ## Download
 
 Download the latest `.apkg` from the **Releases** page:
-https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/releases
+https://github.com/mrzahedi/cs50x-2026-anki-deck/releases
 
 ## Import (Anki Desktop)
 
